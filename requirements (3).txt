@@ -209,6 +209,7 @@ jellyfish==1.1.0
 jieba==0.42.1
 Jinja2==3.1.4
 joblib==1.4.2
+joblib
 jsonpickle==3.2.2
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
